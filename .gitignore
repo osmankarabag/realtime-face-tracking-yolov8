@@ -1,0 +1,8 @@
+__pycache__/
+runs/
+datasets/
+data.yaml
+# Çalışma sırasında üretilen grafikler
+hata_degisimi_grafigi.png
+guven_skoru_grafigi.png
+servo_acilari_grafigi.png
